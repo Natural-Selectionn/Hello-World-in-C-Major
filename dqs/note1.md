@@ -1,5 +1,3 @@
-# 音程
-
 <style>
 .center 
 {
@@ -9,6 +7,8 @@
   margin-right: auto;
 }
 </style>
+
+# 音程
 
 <div class ="center">
 
